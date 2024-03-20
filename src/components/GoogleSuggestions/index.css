@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.image {
+  height: 300px;
+  width: 400px;
+}
+.google {
+  display: flex;
+  flex-direction: row;
+}
